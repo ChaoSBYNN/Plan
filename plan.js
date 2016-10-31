@@ -1,0 +1,23 @@
+{
+    "Java,Python,Ruby":"后台",
+    "MySQL,SQLServer,Oracle":"数据库",
+    "Git,SVN":"版本控制",
+    "Vim,Atom,Bash,Sublime Text,Emacs":"编辑器",
+    "Github,Coding":"远程仓库",
+    "Linux,Windows":"操作系统",
+    "Redis":"缓存控制",
+    "Ngnix":"并发控制,负载控制",
+    "Tomcat,JBoss":"WEB服务器",
+    "Ant":"部署控制",
+    "MarkDown":"格式",
+    "Sevlet,Spring,Hibernate,Mybatis,SpringMVC":"J2EE技术",
+    "JSP,JSTL,EL,正则,Bootstrap,Node.js,JQuery":"页面技术",
+    "Maven":"构建部署",
+    "Eclipse,MyEclipse,IntellJ Idea":"IDE",
+    "Docker":"虚拟系统平台 微型 项目平台打包工具 PaaS",
+    "Django/Tornado":"Python Web 框架 服务器",
+    "网络协议,CDN网络":"",
+    "Hadoop,Spark,MPI,Hive ":"",
+    "ZooKeeper,ActiveMQ,Mycat,Dubbo,Kafka,Hessian,Quartz":"未知",
+    "IaaS,PaaS,BaaS,SaaS,CaaS":"服务方式"
+}
