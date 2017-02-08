@@ -3,7 +3,7 @@
     "MySQL,SQLServer,Oracle":"数据库",
     "Git,SVN":"版本控制",
     "Vim,Atom,Bash,Sublime Text,Emacs":"编辑器",
-    "Github,Coding":"远程仓库",
+    "Github,BitBucket,Coding":"远程仓库",
     "Linux,Windows":"操作系统",
     "Redis":"缓存控制",
     "Ngnix":"并发控制,负载控制",
